@@ -1,0 +1,136 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
+#EXTINF:-1 group-title="Основные" tvg-id="pervy-pl2",Первый (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl2",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="ntv-pl2",НТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru-pl2",Пятый (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="kultura-pl2",Россия К (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="karusel-pl2",Карусель (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tvcentr-pl2",ТВ Центр (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rentv-pl2",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="spas-pl2",Спас (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="sts-pl2",СТС (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="domashny-pl2",Домашний (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tv3-ru-pl2",ТВ3 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="piatnica-pl2",Пятница (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="zvezda-pl2",Звезда (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="mir-pl2",МИР (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt-pl2",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl2",МУЗ-ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="2na2-pl2",2x2 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="sts-love-pl2",СТС Love (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="solnce-pl2",Солнце (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="super-pl2",Суббота (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="tnt4-pl2",ТНТ4 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="che-pl2",Че! (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="yu-pl2",Ю (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="efir24-relax",Эфир (Казань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tnv",ТНВ-Татарстан (Татарстан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tatarstan24",Татарстан-24 (Татарстан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="shayantv",Шаян ТВ (Казань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tmtv",TMTV (Татарстан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="maydan",Майдан (Казань)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="xuzur-tv",Хузур ТВ (Татарстан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_HUZUR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuraj",Курай (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="salam",Салям (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bst",БСТ (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bst",БСТ (Челябинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные",360°-Белорецк (Белорецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_BELORETSK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="kuraj",Курай (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="next-tv",Next TV (Нефтекамск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tugan-tel",Туган Тел (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="bashkortostan24",Башкортостан 24 (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="matur-tv",Матур ТВ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="salam",Салям (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="uchaly-tv",Учалы ТВ (Учалы)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="shayantv",Шаян ТВ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="tamyr",Тамыр (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
